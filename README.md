@@ -1,5 +1,7 @@
 # CSE165 Project 1
 
+> **Note:** This repository is a fork of the original group project repository that I contributed to as part of a team. The fork is maintained here to showcase the project and my work on it.
+
 A Unity XR project for building and interacting with a virtual medical/lab environment on Meta Quest. The scene includes medical equipment, furniture, a tent/lab setup, locomotion, visual travel indicators, object spawning, single-object manipulation, and group selection/manipulation.
 
 ## Project Overview
